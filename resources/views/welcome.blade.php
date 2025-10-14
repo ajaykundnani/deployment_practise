@@ -32,6 +32,6 @@
 <body>
     <h1>🚀 Deploy Successful on EC2 Instance</h1>
 
-    <footer>Developed by <strong>Ajay Kundnani (A.k)</strong></footer>
+    <footer>Developed by <strong>Ajay Kundnani</strong></footer>
 </body>
 </html>
